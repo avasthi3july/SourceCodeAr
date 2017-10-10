@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1054284947938",
+    "firebase_url": "https://arapp-711ac.firebaseio.com",
+    "project_id": "arapp-711ac",
+    "storage_bucket": "arapp-711ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054284947938:android:25d8c6b08af13854",
+        "android_client_info": {
+          "package_name": "com.augmentedrealityapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054284947938-d7ej15lkif15mpnjunbh19ngb4p8dkn6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6-_F9HRMGgEsn4oRFkCu-XaBT2emyetE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
